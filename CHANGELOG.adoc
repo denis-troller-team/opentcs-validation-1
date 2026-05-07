@@ -4,3 +4,4 @@
 = Changelog
 
 The changelog is maintained in link:./opentcs-documentation/src/docs/release-notes/changelog.adoc[opentcs-documentation/src/docs/release-notes/changelog.adoc].
+
