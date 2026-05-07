@@ -123,6 +123,6 @@ licenseReport {
 sonar {
   properties {
     property "sonar.projectKey", "denis-troller-sonarsource_opentcs"
-    property "sonar.organization", "denis-troller-sonarsource"
+    property "sonar.organization", "denis-troller-sonar"
   }
 }
