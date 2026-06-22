@@ -124,5 +124,7 @@ sonar {
   properties {
     property "sonar.projectKey", "denis-troller-validation-1"
     property "sonar.organization", "denis-troller-validation-1_opentcs-validation-1"
+    property "sonar.scanner.sonarcloudUrl", "https://dev9.sc-dev9.io"
+    property "sonar.scanner.apiBaseUrl", "https://api.sc-dev9.io"
   }
 }
