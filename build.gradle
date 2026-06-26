@@ -122,7 +122,8 @@ licenseReport {
 
 sonar {
   properties {
-    property "sonar.projectKey", "1-coupon-annual-team-org-1_opentcs"
-    property "sonar.organization", "1-coupon-annual-team-org-1"
-  }
+    property "sonar.projectKey", "denis-troller-ep2_opentcs"
+    property "sonar.organization", "denis-troller-ep2"
+    property "sonar.scanner.sonarcloudUrl", "https://dev9.sc-dev9.io"
+    property "sonar.scanner.apiBaseUrl", "https://api.sc-dev9.io"  }
 }
